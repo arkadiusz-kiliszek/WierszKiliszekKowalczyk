@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-Jest ladna pogoda 
+Jezeli  ladna pogoda ze kurde az nie moge
 wiec moje serce siê raduje,
-a dusza chce œpiewaæ-"Witaj wiosno!"
-=======
-Jezeli  ladna pogoda ze kurde az nie moge 
-to jestem kurde szczesliwy bardzo
->>>>>>> remotes/origin/wulgarna
+a dusza chce œpiewaæ-"jestem kurde szczesliwy bardzo!"
